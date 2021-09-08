@@ -1,4 +1,4 @@
-### Project Proposal for 
+### Project Proposal for WomenTechWomenYes (WTWY) street team
 
 #### Question/need:
 
