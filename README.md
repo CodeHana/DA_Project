@@ -14,7 +14,7 @@ Analyze the Subway data incorporate with census household income and NYC public 
 
 ## Data
 Primary data
-[MTA turnstile data](http://web.mta.info/developers/turnstile.html) 
+[MTA turnstile data]
 - 379 stations and 5030 turnstiles
 - Total 3,679,429 total records
 
@@ -36,4 +36,4 @@ Primary data
 
 ## Communication
 In addition to the slides and visuals presented. 
-[MTA Project](https://github.com/CodeHana/DA_Project/blob/main/DA_Project/mta_project/myMTA-Project.pdf) 
+[MTA Project]
