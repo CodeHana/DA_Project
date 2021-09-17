@@ -19,14 +19,14 @@ Primary data
 - Total 3,679,429 total records
 
 ## Analysis Strategies
-- Considerthe both exits and entries everyday traffic through the period of 05/01/2021 - 08/31/2021. (
+- Considerthe both exits and entries everyday traffic through the period of 05/01/2021 - 08/31/2021. 
 - Examine the total traffic rank the top 10 stations per weekday and weekend. 
 - Checked the traffic of week days per top 10 stations 
 - Confirm the analyzed result on the map and cross check with the household incom NYC to make final suggestions
 
 
 ## Tools
-- Python
+- [Python] (https://github.com/CodeHana/DA_Project/blob/main/DA_Project/mta_project/My_MTA_Project.ipynb)
 - Numpy
 - Pandas
 - Matplotlib
@@ -34,7 +34,6 @@ Primary data
 - Plotly.express
 - Tableau
 
-
 ## Communication
 In addition to the slides and visuals presented. 
-- ![] MTA Project https://github.com/CodeHana/DA_Project/blob/main/DA_Project/mta_project/myMTA-Project.pdf
+[MTA Project](https://github.com/CodeHana/DA_Project/blob/main/DA_Project/mta_project/myMTA-Project.pdf) 
