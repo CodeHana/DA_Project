@@ -1,4 +1,5 @@
-# Predicting the Functionality of Tanzania Waterpoints
+# WomenTechWomenYes (WTWY) - Exploratory Data Analysis on the NYC MTA Turnstile Data
+
 Cindy Su
 
 ## Abstract
