@@ -26,7 +26,7 @@ Primary data
 
 
 ## Tools
-- [Python] (https://github.com/CodeHana/DA_Project/blob/main/DA_Project/mta_project/My_MTA_Project.ipynb)
+- [Python](https://github.com/CodeHana/DA_Project/blob/main/DA_Project/mta_project/My_MTA_Project.ipynb)
 - Numpy
 - Pandas
 - Matplotlib
