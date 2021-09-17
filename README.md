@@ -36,5 +36,5 @@ Primary data
 
 ## Communication
 In addition to the slides and visuals presented. 
-https://docs.google.com/presentation/d/142-vLCIhAz7jcn8bSFuyHYTmlslKPy3GK35palzJC1k/edit#slide=id.gecefef8baa_0_362
+- https://docs.google.com/presentation/d/142-vLCIhAz7jcn8bSFuyHYTmlslKPy3GK35palzJC1k/edit#slide=id.gecefef8baa_0_362
 
