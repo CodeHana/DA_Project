@@ -5,14 +5,14 @@
 
 - The analysis uses the NYC - MTA turnstile data from 05/01/2021 to 08/31/2021.
 - Which stations are the businest stations - with the Top 10 highest traffic flows during the weekday and on the weekend
-![](https://github.com/CodeHana/DA_Project/blob/main/DA_Project/Busiest_NYC_Subway.png)
+![](https://github.com/CodeHana/DA_Project/blob/main/pics/Busiest_NYC_Subway.png)
 
 To get the top stations with busiest traffic flow. 
 I used the sum of daily entries differences and daily exits differences to get the total riders per day in each station. 
 Because some stations have larger number in daily entries, some has larger in exits (as shown in the graphs below), therefore I consider both exits and entries is to reduce the bias
 
-![](https://github.com/CodeHana/DA_Project/blob/main/DA_Project/NYC_weekdayRiders.png)
-![](https://github.com/CodeHana/DA_Project/blob/main/DA_Project/NYC_weekendRiders.png)
+![](https://github.com/CodeHana/DA_Project/blob/main/pics/NYC_weekdayRiders.png)
+![](https://github.com/CodeHana/DA_Project/blob/main/pics/NYC_weekendRiders.png)
 
 The top 10 stations (weekday and weekend) from 05/01/2021 to 08/31/2021 (xtick shows Monday total riders)
 
