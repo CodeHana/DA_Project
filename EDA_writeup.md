@@ -26,7 +26,7 @@ Primary data
 
 
 ## Tools
-- [Python](https://github.com/CodeHana/DA_Project/blob/main/DA_Project/mta_project/My_MTA_Project.ipynb)
+- [Python]
 - Numpy
 - Pandas
 - Matplotlib
@@ -36,4 +36,4 @@ Primary data
 
 ## Communication
 In addition to the slides and visuals presented. 
-[MTA Project]
+[MTA Project](https://github.com/CodeHana/DA_Project/blob/main/myMTA_Analysis_Project.pdf)
